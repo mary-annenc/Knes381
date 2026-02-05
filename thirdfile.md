@@ -54,10 +54,33 @@ Content Cell | Content Cell | Content Cell
      3. Boxing Day
      4. New Year's Eve
 
+#### Grocery list ####  
+- [ ] Eggs  
+- [ ] Milk  
+- [ ] Bread
+- [ ] Lentils
+   - [ ] Don't forget to boil the lentils for at least 20 minutes.  
+- [x] Bell peppers
+- [x] Garlic Naan
+- [x] Chickpeas  
 
-        
+> Blockquote
+>> Nested blockquote
 
-         
+- - - -  
+
+#### Waterton National Park ####  
+![Waterton National Park](https://www.watertonlakeslodge.com/images/waterton_images/jesus_salazar_experience_waterton_2014_5.jpg "Red Rocks")    
+
+I'm so excited to graduate 🥳
+
+That is so funny! :joy:  
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | ![Waterton National Park](https://www.watertonlakeslodge.com/images/waterton_images/jesus_salazar_experience_waterton_2014_5.jpg "Red Rocks")   
+
 
 
 
