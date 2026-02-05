@@ -4,6 +4,6 @@
 - This will be a list
 - this is the second item on the list
 
-![picture alt](/Images/canadianflag.jpg "Title is optional")
+![Canadian flag](Images/canadian_flag.jpg "canadian flag")
 
-<img src="/Images/canadian_flag.jpg" </img>  
+
