@@ -1,2 +1,7 @@
-# This is the title
+<h1 align="center">Welcome to Summer Camp!</h1>
+
+
+
+
+
 
