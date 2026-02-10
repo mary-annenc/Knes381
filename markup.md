@@ -9,7 +9,7 @@
 * [Hyperlink that navigates to a subfolder](#hyperlink-that-navigates-to-a-subfolder)
 
 ### Right Aligned Image ###
-<img align="right" src="Images/summer_camp.jpg" alt="fireplace" width="250"/> 
+<img align="right" src="Images/summer_camp.jpg" alt="fireplace" width="320"/> 
 
  We hope your time here helps you to foster independence                                            
 and build social skills in out unplugged environment.  
